@@ -21,8 +21,8 @@ body {
 }
 
 header {
-  background-color: #e0e7ef;
-  padding: 1rem 0;
+  background-color: #e2f9ff;
+  padding: 2rem 0;
 }
 
 .nav-list {
@@ -48,7 +48,7 @@ figure {
 }
 
 h1 {
-  margin: 0 0 1rem;
+  margin: 0 0 0.5rem;
   text-align: center;
 }
 
